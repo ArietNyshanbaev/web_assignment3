@@ -26,7 +26,7 @@ class Box
 		return @height
 	end
 
-	#Setters
+	#Setters values of width and height can be changed by calling (width = 4 or height = 5) 
 	def width=(value)
 		@width = value
 	end
